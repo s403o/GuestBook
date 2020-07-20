@@ -1,6 +1,6 @@
 setup:
 	# Create python virtualenv & source it
-	# source ~/.djangoapp/bin/activate
+	source ~/.djangoapp/bin/activate
 	python3 -m venv ~/.djangoapp
 
 install:
