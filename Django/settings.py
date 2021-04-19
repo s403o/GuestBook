@@ -25,13 +25,7 @@ SECRET_KEY = '!-q4wuja)!b05+08sw9(orweh@k+9mlzb6zyuy%gz8n39lh3lq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = 
-[
-    'guestbookapp0.herokuapp.com',
-    'guestbookapp0.herokuapp.com/book',
-    'guestbookapp0.herokuapp.com/admin',
-
-]
+ALLOWED_HOSTS = ['guestbookapp0.herokuapp.com/book']
 
 
 # Application definition
